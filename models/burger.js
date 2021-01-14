@@ -1,5 +1,5 @@
 const orm = require("../config/orm");
-const connection = require ("../config/connection");
+
 
 const burger = {
   selectAll: function (cb) {
